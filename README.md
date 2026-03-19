@@ -21,7 +21,7 @@ sudo apt install blender
 ---
 
 ## Blender 실행 화면
-
+![blender 화면](./images/blender1.png)
 Blender 실행 시 기본 작업 화면이 나타납니다.
 해당 화면에서 3D 모델링 작업을 시작할 수 있습니다.
 
@@ -30,7 +30,7 @@ Blender 실행 시 기본 작업 화면이 나타납니다.
 ## 기본 모델링 작업
 
 ### 3.1 도형 추가
-
+![blender 화면](./images/blender2.png)
 * 좌측 상단의 **Add 메뉴**를 클릭하여 다양한 기본 도형을 추가할 수 있습니다.
 * 도형 추가 후 우측 하단의 **속성 창(Properties)**에서 다음을 조정할 수 있습니다:
 
@@ -59,7 +59,7 @@ Blender 실행 시 기본 작업 화면이 나타납니다.
 ---
 
 ## 차량 모델링 진행
-
+![blender 화면](./images/blender3.png)
 위 기능들을 활용하여 원하는 차량 모델을 제작합니다.
 
 ### ✔ 예시 작업
@@ -73,7 +73,7 @@ Blender 실행 시 기본 작업 화면이 나타납니다.
 ## CARLA용 Skeleton(뼈대) 적용
 
 차량 모델링 완료 후, CARLA에서 제공하는 뼈대(Skeleton) 파일을 불러옵니다.
-
+![blender 화면](./images/blender4.png)
 ### 작업 절차
 
 1. Skeleton 파일 import
